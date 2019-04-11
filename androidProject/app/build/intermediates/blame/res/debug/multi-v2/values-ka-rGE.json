@@ -1,0 +1,26 @@
+{
+    "logs": [
+        {
+            "outputFile": "C:\\Users\\tusha\\Desktop\\CS395\\androidProject\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-ka-rGE\\values-ka-rGE.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\tusha\\.gradle\\caches\\transforms-1\\files-1.1\\mediarouter-v7-22.0.0.aar\\8b1566ab1833edb143eff2cde6e01b84\\res\\values-ka-rGE\\values.xml",
+                    "from": {
+                        "startLines": "4,5,6,7,8,9,10,11,12,13",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "282,393,506,621,733,829,925,1051,1161,1248",
+                        "endColumns": "110,112,114,111,95,95,125,109,86,99",
+                        "endOffsets": "388,501,616,728,824,920,1046,1156,1243,1343"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,166,279,394,506,602,698,824,934,1021",
+                        "endColumns": "110,112,114,111,95,95,125,109,86,99",
+                        "endOffsets": "161,274,389,501,597,693,819,929,1016,1116"
+                    }
+                }
+            ]
+        }
+    ]
+}

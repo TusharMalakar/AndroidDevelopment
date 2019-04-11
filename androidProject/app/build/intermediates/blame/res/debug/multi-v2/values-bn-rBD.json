@@ -1,0 +1,26 @@
+{
+    "logs": [
+        {
+            "outputFile": "C:\\Users\\tusha\\Desktop\\CS395\\androidProject\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-bn-rBD\\values-bn-rBD.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\tusha\\.gradle\\caches\\transforms-1\\files-1.1\\mediarouter-v7-22.0.0.aar\\8b1566ab1833edb143eff2cde6e01b84\\res\\values-bn-rBD\\values.xml",
+                    "from": {
+                        "startLines": "4,5,6,7,8,9,10,11,12,13",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "282,393,516,622,737,837,932,1052,1161,1248",
+                        "endColumns": "110,122,105,114,99,94,119,108,86,96",
+                        "endOffsets": "388,511,617,732,832,927,1047,1156,1243,1340"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,166,289,395,510,610,705,825,934,1021",
+                        "endColumns": "110,122,105,114,99,94,119,108,86,96",
+                        "endOffsets": "161,284,390,505,605,700,820,929,1016,1113"
+                    }
+                }
+            ]
+        }
+    ]
+}

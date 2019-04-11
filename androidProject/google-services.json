@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "761148744265",
+    "firebase_url": "https://androidproject-d6c43.firebaseio.com",
+    "project_id": "androidproject-d6c43",
+    "storage_bucket": "androidproject-d6c43.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:761148744265:android:a94e8339388064a4",
+        "android_client_info": {
+          "package_name": "com.example.chat247"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "761148744265-rtfl8j4l0j9vr14ife8fif2fk4hthem4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBRDnfpiNHFHHIOkQMjyIsmkIoQMC1oWRQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "761148744265-rtfl8j4l0j9vr14ife8fif2fk4hthem4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,26 @@
+{
+    "logs": [
+        {
+            "outputFile": "C:\\Users\\tusha\\Desktop\\CS395\\androidProject\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-si-rLK\\values-si-rLK.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\tusha\\.gradle\\caches\\transforms-1\\files-1.1\\mediarouter-v7-22.0.0.aar\\8b1566ab1833edb143eff2cde6e01b84\\res\\values-si-rLK\\values.xml",
+                    "from": {
+                        "startLines": "4,5,6,7,8,9,10,11,12,13",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "282,387,498,606,714,811,912,1033,1144,1231",
+                        "endColumns": "104,110,107,107,96,100,120,110,86,91",
+                        "endOffsets": "382,493,601,709,806,907,1028,1139,1226,1318"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,160,271,379,487,584,685,806,917,1004",
+                        "endColumns": "104,110,107,107,96,100,120,110,86,91",
+                        "endOffsets": "155,266,374,482,579,680,801,912,999,1091"
+                    }
+                }
+            ]
+        }
+    ]
+}

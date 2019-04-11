@@ -1,0 +1,26 @@
+{
+    "logs": [
+        {
+            "outputFile": "C:\\Users\\tusha\\Desktop\\CS395\\androidProject\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-eu-rES\\values-eu-rES.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\tusha\\.gradle\\caches\\transforms-1\\files-1.1\\mediarouter-v7-22.0.0.aar\\8b1566ab1833edb143eff2cde6e01b84\\res\\values-eu-rES\\values.xml",
+                    "from": {
+                        "startLines": "4,5,6,7,8,9,10,11,12,13",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "282,389,498,603,710,808,911,1038,1143,1230",
+                        "endColumns": "106,108,104,106,97,102,126,104,86,93",
+                        "endOffsets": "384,493,598,705,803,906,1033,1138,1225,1319"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,162,271,376,483,581,684,811,916,1003",
+                        "endColumns": "106,108,104,106,97,102,126,104,86,93",
+                        "endOffsets": "157,266,371,478,576,679,806,911,998,1092"
+                    }
+                }
+            ]
+        }
+    ]
+}

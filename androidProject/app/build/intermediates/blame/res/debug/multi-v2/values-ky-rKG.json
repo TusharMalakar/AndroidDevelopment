@@ -1,0 +1,26 @@
+{
+    "logs": [
+        {
+            "outputFile": "C:\\Users\\tusha\\Desktop\\CS395\\androidProject\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-ky-rKG\\values-ky-rKG.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\tusha\\.gradle\\caches\\transforms-1\\files-1.1\\mediarouter-v7-22.0.0.aar\\8b1566ab1833edb143eff2cde6e01b84\\res\\values-ky-rKG\\values.xml",
+                    "from": {
+                        "startLines": "4,5,6,7,8,9,10,11,12,13",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "282,395,509,613,716,815,912,1033,1152,1238",
+                        "endColumns": "112,113,103,102,98,96,120,118,85,95",
+                        "endOffsets": "390,504,608,711,810,907,1028,1147,1233,1329"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,168,282,386,489,588,685,806,925,1011",
+                        "endColumns": "112,113,103,102,98,96,120,118,85,95",
+                        "endOffsets": "163,277,381,484,583,680,801,920,1006,1102"
+                    }
+                }
+            ]
+        }
+    ]
+}

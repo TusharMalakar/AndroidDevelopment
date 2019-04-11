@@ -1,0 +1,26 @@
+{
+    "logs": [
+        {
+            "outputFile": "C:\\Users\\tusha\\Desktop\\CS395\\androidProject\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-mn-rMN\\values-mn-rMN.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\tusha\\.gradle\\caches\\transforms-1\\files-1.1\\mediarouter-v7-22.0.0.aar\\8b1566ab1833edb143eff2cde6e01b84\\res\\values-mn-rMN\\values.xml",
+                    "from": {
+                        "startLines": "4,5,6,7,8,9,10,11,12,13",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "282,392,511,618,719,821,920,1041,1152,1238",
+                        "endColumns": "109,118,106,100,101,98,120,110,85,98",
+                        "endOffsets": "387,506,613,714,816,915,1036,1147,1233,1332"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,165,284,391,492,594,693,814,925,1011",
+                        "endColumns": "109,118,106,100,101,98,120,110,85,98",
+                        "endOffsets": "160,279,386,487,589,688,809,920,1006,1105"
+                    }
+                }
+            ]
+        }
+    ]
+}
