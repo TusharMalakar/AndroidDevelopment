@@ -8,7 +8,7 @@
         xmlns:tools="http://schemas.android.com/tools"
         android:layout_width="match_parent"
         android:layout_height="match_parent"
-        tools:context=" .RegisterActivity">
+        tools:context= "com.example.chat247.RegisterActivity">
 
         <include
             android:id="@+id/toolbar"
@@ -26,7 +26,7 @@
         android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:text = "Create a new account"
-            android:textsize = "20sp"
+            android:textSize="25dp"
             android:textStyle="bold" />
 
         <com.rengwuxian.materialedittext.MaterialEditText

@@ -7,7 +7,7 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    tools:context=" .Login">
+    tools:context="com.example.chat247.LoginActivity">
 
     <include
         android:id="@+id/toolbar"
@@ -25,7 +25,7 @@
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:text = "Login Page"
-            android:textsize = "20sp"
+            android:textSize="25dp"
             android:textStyle="bold" />
 
         <com.rengwuxian.materialedittext.MaterialEditText
@@ -34,7 +34,7 @@
             android:id="@+id/username"
             android:layout_marginTop="10dp"
             app:met_floatingLabel="normal"
-            android:hint="Username" />
+            android:hint="Enter username" />
 
 
 
@@ -45,7 +45,7 @@
             android:inputType="textPassword"
             android:layout_marginTop="10dp"
             app:met_floatingLabel="normal"
-            android:hint="password" />
+            android:hint="Enter password" />
 
         <Button
             android:layout_width="match_parent"

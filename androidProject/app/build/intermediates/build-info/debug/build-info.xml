@@ -5,23 +5,24 @@
     build-mode="FULL"
     density="xxhdpi"
     format="10"
+    ir-eligibility="CLASS_ADDED"
     plugin-version="3.3.2"
-    timestamp="1555002431636"
+    timestamp="1555017371607"
     token="6543411611869366838"
-    verifier="FULL_BUILD_REQUESTED" >
+    verifier="COLD_SWAP_REQUESTED" >
 
     <task
         name="javac"
-        duration="7214" />
+        duration="0" />
     <task
         name="instant-run-dex"
         duration="0" />
     <task
         name="instant-run-transform"
-        duration="547" />
+        duration="287" />
     <task
         name="verifier"
-        duration="908" />
+        duration="703" />
 
     <artifact
         location="C:\Users\tusha\Desktop\CS395\androidProject\app\build\intermediates\split-apk\debug\dep\dependencies.apk"
@@ -36,13 +37,16 @@
         location="C:\Users\tusha\Desktop\CS395\androidProject\app\build\intermediates\split-apk\debug\slices\slice_0.apk"
         type="SPLIT" />
     <artifact
-        location="C:\Users\tusha\Desktop\CS395\androidProject\app\build\intermediates\split-apk\debug\slices\slice_3.apk"
+        location="C:\Users\tusha\Desktop\CS395\androidProject\app\build\intermediates\split-apk\debug\slices\slice_4.apk"
         type="SPLIT" />
     <artifact
         location="C:\Users\tusha\Desktop\CS395\androidProject\app\build\intermediates\split-apk\debug\slices\slice_5.apk"
         type="SPLIT" />
     <artifact
-        location="C:\Users\tusha\Desktop\CS395\androidProject\app\build\intermediates\split-apk\debug\slices\slice_4.apk"
+        location="C:\Users\tusha\Desktop\CS395\androidProject\app\build\intermediates\split-apk\debug\slices\slice_6.apk"
+        type="SPLIT" />
+    <artifact
+        location="C:\Users\tusha\Desktop\CS395\androidProject\app\build\intermediates\split-apk\debug\slices\slice_3.apk"
         type="SPLIT" />
     <artifact
         location="C:\Users\tusha\Desktop\CS395\androidProject\app\build\intermediates\split-apk\debug\slices\slice_7.apk"
@@ -54,16 +58,14 @@
         location="C:\Users\tusha\Desktop\CS395\androidProject\app\build\intermediates\split-apk\debug\slices\slice_9.apk"
         type="SPLIT" />
     <artifact
-        location="C:\Users\tusha\Desktop\CS395\androidProject\app\build\intermediates\split-apk\debug\slices\slice_6.apk"
-        type="SPLIT" />
-    <artifact
         location="C:\Users\tusha\Desktop\CS395\androidProject\app\build\intermediates\instant-run-apk\debug\app-debug.apk"
         type="SPLIT_MAIN" />
 
     <build
         build-mode="FULL"
-        timestamp="1555002431636"
-        verifier="FULL_BUILD_REQUESTED" >
+        ir-eligibility="CLASS_ADDED"
+        timestamp="1555017371607"
+        verifier="COLD_SWAP_REQUESTED" >
         <artifact
             location="C:\Users\tusha\Desktop\CS395\androidProject\app\build\intermediates\split-apk\debug\dep\dependencies.apk"
             type="SPLIT" />
@@ -77,13 +79,16 @@
             location="C:\Users\tusha\Desktop\CS395\androidProject\app\build\intermediates\split-apk\debug\slices\slice_0.apk"
             type="SPLIT" />
         <artifact
-            location="C:\Users\tusha\Desktop\CS395\androidProject\app\build\intermediates\split-apk\debug\slices\slice_3.apk"
+            location="C:\Users\tusha\Desktop\CS395\androidProject\app\build\intermediates\split-apk\debug\slices\slice_4.apk"
             type="SPLIT" />
         <artifact
             location="C:\Users\tusha\Desktop\CS395\androidProject\app\build\intermediates\split-apk\debug\slices\slice_5.apk"
             type="SPLIT" />
         <artifact
-            location="C:\Users\tusha\Desktop\CS395\androidProject\app\build\intermediates\split-apk\debug\slices\slice_4.apk"
+            location="C:\Users\tusha\Desktop\CS395\androidProject\app\build\intermediates\split-apk\debug\slices\slice_6.apk"
+            type="SPLIT" />
+        <artifact
+            location="C:\Users\tusha\Desktop\CS395\androidProject\app\build\intermediates\split-apk\debug\slices\slice_3.apk"
             type="SPLIT" />
         <artifact
             location="C:\Users\tusha\Desktop\CS395\androidProject\app\build\intermediates\split-apk\debug\slices\slice_7.apk"
@@ -93,9 +98,6 @@
             type="SPLIT" />
         <artifact
             location="C:\Users\tusha\Desktop\CS395\androidProject\app\build\intermediates\split-apk\debug\slices\slice_9.apk"
-            type="SPLIT" />
-        <artifact
-            location="C:\Users\tusha\Desktop\CS395\androidProject\app\build\intermediates\split-apk\debug\slices\slice_6.apk"
             type="SPLIT" />
         <artifact
             location="C:\Users\tusha\Desktop\CS395\androidProject\app\build\intermediates\instant-run-apk\debug\app-debug.apk"
